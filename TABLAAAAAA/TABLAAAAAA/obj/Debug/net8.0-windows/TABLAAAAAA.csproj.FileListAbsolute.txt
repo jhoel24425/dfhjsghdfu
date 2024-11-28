@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\bin\Debug\net8.0-windows\TABLAAAAAA.exe
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\bin\Debug\net8.0-windows\TABLAAAAAA.deps.json
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\bin\Debug\net8.0-windows\TABLAAAAAA.runtimeconfig.json
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\bin\Debug\net8.0-windows\TABLAAAAAA.dll
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\bin\Debug\net8.0-windows\TABLAAAAAA.pdb
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.Form1.resources
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.Properties.Resources.resources
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.AssemblyInfo.cs
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.dll
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\refint\TABLAAAAAA.dll
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.pdb
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\TABLAAAAAA.genruntimeconfig.cache
+C:\Users\HP\source\repos\TABLAAAAAA\TABLAAAAAA\obj\Debug\net8.0-windows\ref\TABLAAAAAA.dll
